@@ -1,1 +1,1 @@
-This is the printf readme file
+This is the a group project of two called printf.
